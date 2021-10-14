@@ -1,0 +1,54 @@
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding-top: 64px;
+  width: 100%;
+  background-image: url("background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: whitesmoke;
+  padding: 16px;
+  padding-bottom: 48px;
+  border-radius: 7.5px;
+  max-width: 500px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align: center;
+  color: gray;
+  margin-top: 16px;
+}
+
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.textButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  background-color: rgba(229, 231, 235);
+}

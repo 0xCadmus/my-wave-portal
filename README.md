@@ -6,3 +6,4 @@ Users can _pet_ my cats by sending a message that is recorded on the blockchain 
 
 The live deployment of this project can be found **here**. It is deployed via Replit and will need to be loaded upon startup. Make sure you are connected to the Rinkeby network when you connect your wallet.
 # my-wave-portal
+# my-wave-portal
